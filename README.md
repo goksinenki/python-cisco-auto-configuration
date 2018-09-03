@@ -26,7 +26,7 @@ Do not forget to allow mail relay from your mail server for your script.
 
 Here is a screenshot below.
 
-![alt text](https://github.com/goksinenki/python-cisco-auto-configuration/blob/master/pingmonitor.png)
+![alt text](https://github.com/goksinenki/python-cisco-auto-configuration/blob/master/portmanager2.PNG)
 
 Also, you can use that script for all devices/servers/clients that you can connect via SSH. (vendor free)
 
